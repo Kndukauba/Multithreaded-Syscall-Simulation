@@ -1,10 +1,7 @@
 /*
-* Name: Kingsley C. Ndukauba
-* Course: Operating Systems
+* Operating Systems
 * Date: April 29, 2026
-* Instructor: Prof. Rittie
-* Description: Simulated Kernel Process (Server Side)
-* Note: This code was generated with the assistance of AI (GitHub Copilot): 85% Option
+* Description: Simulated Kernel Process (Server Side) 
 */
 
 #define _CRT_SECURE_NO_WARNINGS
